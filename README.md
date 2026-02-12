@@ -42,6 +42,11 @@ following paper:
 > **Acta Materialia**, 234, 118615 (2022).  
 > https://doi.org/10.1016/j.actamat.2022.118615
 
+For more understanding, refer the following paper:
+> **Mantri, S., Oddershede, J., Damjanovic, D., & Daniels, J.**
+> *Ferroelectric domain continuity over grain boundaries*
+> **Acta Materialia**, 128, Pages 400-405 (2017).
+> https://doi.org/10.1016/j.actamat.2017.01.065
 ---
 
 ## Repository Structure
