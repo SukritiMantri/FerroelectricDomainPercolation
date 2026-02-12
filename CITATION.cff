@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: >
+  If you use this code or any results derived from it, please cite the
+  following paper.
+
+title: "Domain Percolation in Ferroelectric Polycrystals"
+type: software
+
+authors:
+  - family-names: Mantri
+    given-names: Sukriti
+  - family-names: Daniels
+    given-names: John
+
+doi: 10.1016/j.actamat.2022.118615
+
+url: https://github.com/<your-username>/<your-repository-name>
+
+abstract: >
+  This software implements a computational framework for studying
+  domain-wall–mediated percolation in ferroelectric polycrystalline
+  microstructures. The code generates synthetic microstructures,
+  assigns crystallographic orientations under random, textured,
+  and Σ3-weighted conditions, and evaluates domain percolation pathways
+  across grains based on geometric, angular, and electrostatic criteria.
+
+keywords:
+  - ferroelectrics
+  - domain walls
+  - percolation
+  - polycrystals
+  - grain boundaries
+  - materials science
+
+license: MIT
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Mantri
+      given-names: Sukriti
+    - family-names: Daniels
+      given-names: John
+  title: "Percolation of domain walls in ferroelectric polycrystals"
+  journal: Acta Materialia
+  volume: 234
+  pages: 118615
+  year: 2022
+  doi: 10.1016/j.actamat.2022.118615
+

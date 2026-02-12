@@ -1,0 +1,48 @@
+############################
+# Xcode
+############################
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+xcuserdata/
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+############################
+# Build products
+############################
+build/
+*.o
+*.a
+*.dSYM
+*.exe
+
+############################
+# macOS
+############################
+.DS_Store
+
+############################
+# Editor temp files
+############################
+*~
+*.swp
+*.swo
+
+############################
+# Python
+############################
+__pycache__/
+*.pyc
+.venv/
+.env
+
+############################
+# Large raw simulation outputs
+############################
+# Ignore raw binary dumps, but allow processed data
+*.out
+*.bin
+
+
