@@ -7,7 +7,7 @@ from pathlib import Path
 # -------------------------
 
 # This code plots the domain percolation length and net spread (of the spider web)
-# Make sure the result output of the 
+# Youl will need to add the directory path of results 
 #
 results_dir = Path("./")   # directory with binary files
 iterations = 100                # must match C++ Iterations
